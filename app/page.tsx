@@ -556,7 +556,7 @@ export default function BloomTry() {
             }}>
               Want it to remember your garden?{' '}
               <a
-                href="https://trybloom.co/pricing"
+                href="https://bloom-website-rosy.vercel.app/pricing"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={handleSignupClick}
@@ -718,7 +718,7 @@ export default function BloomTry() {
             When Bloom opens, your garden remembers every reflection. Come back to yourself, day by day.
           </p>
           <a
-            href="https://trybloom.co/pricing"
+            href="https://bloom-website-rosy.vercel.app/pricing"
             target="_blank"
             rel="noopener noreferrer"
             onClick={handleSignupClick}
