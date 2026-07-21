@@ -798,7 +798,7 @@ export default function BloomTry() {
           }}>
             {hasPlantedToday ? (
               <>
-                This bloom won&apos;t stay.<br />
+                Want to remember your Bloom? won&apos;t stay.<br />
                 <a
                   href={PRICING_URL}
                   target="_blank"
@@ -811,7 +811,7 @@ export default function BloomTry() {
                     borderBottom: '1px solid var(--terra-l)',
                   }}
                 >
-                  Get the real Bloom →
+                  Create your own Garden →
                 </a>
               </>
             ) : (
