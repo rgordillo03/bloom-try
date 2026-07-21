@@ -798,7 +798,7 @@ export default function BloomTry() {
           }}>
             {hasPlantedToday ? (
               <>
-                Want to remember your Bloom? won&apos;t stay.<br />
+                Want to remember your Bloom?<br />
                 <a
                   href={PRICING_URL}
                   target="_blank"
